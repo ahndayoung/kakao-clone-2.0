@@ -2,7 +2,13 @@
 @import "reset.css";
 @import "status-bar.css";
 @import "header.css";
+@import "nav-bar.css";
+@import "friend.css";
+@import "friends.css";
 
+* {
+  box-sizing: border-box;
+}
 body {
   background-color: white;
   padding: 10px 20px;
@@ -13,4 +19,5 @@ body {
 
 a {
   color: inherit; /*부모 요소로부터 색깔을 받아온다*/
+  text-decoration: none;
 }
