@@ -8,14 +8,14 @@
     more
     settings
   * *CSS*
-    *chat
-    *find
-    *friend
-    *friends
-    *header
-    *more
-    *nav-bar
-    *reset
-    *settings
-    *status-bar
-    *style
+    chat
+    find
+    friend
+    friends
+    header
+    more
+    nav-bar
+    reset
+    settings
+    status-bar
+    style
