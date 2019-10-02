@@ -1,5 +1,5 @@
 .find {
-  margin-top: 10px;
+  margin-top: 50px;
 }
 
 .find .find__header-list {
@@ -23,7 +23,7 @@
 }
 
 .find .header-btn__icon {
-  font-size: 13px;
+  font-size: 12px;
 }
 
 .find .find__recommended {
